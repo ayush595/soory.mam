@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'kiwi maru', serif;
+    background-color: aqua;
+}
+
+img {
+    height: 300px;
+    border-radius: 28%;
+}
+
+.links {
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+
+#njn {
+    top: 5px;
+    left: 400px;
+}
+
+.links:hover {
+    background-color: aquamarine;
+}
